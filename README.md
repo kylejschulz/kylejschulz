@@ -5,12 +5,11 @@
 
 ### A little about me:
 
-A little about me:
-Currently a Software Developer looking for work 
-Former field biolgist, working on eradicating the Asian long-horned beetle
-Use he/him pronouns
-Currently learning Docker 
-Schedule some time to chat over coffee or pair program on Calendly
+- Currently a Software Developer looking for work 
+- Former field biolgist, working on eradicating the Asian long-horned beetle
+- Use he/him pronouns
+- Currently learning Docker 
+- Schedule some time to chat over coffee or pair program on Calendly
 <hr>
 
 ### I enjoy coding with:
