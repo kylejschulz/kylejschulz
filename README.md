@@ -4,7 +4,7 @@
 
 ### A little about me:
 
-- Currently a Software Developer looking for work 
+- Recent Turing School Grad 
 - Former field biolgist, working on eradicating the Asian long-horned beetle
 - Use he/him pronouns
 - Currently learning Docker 
