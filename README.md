@@ -7,7 +7,7 @@
 - Recent Turing School Grad 
 - Former field biolgist, working on eradicating the Asian long-horned beetle
 - Use he/him pronouns
-- Currently learning Docker 
+- Currently learning Docker and React 
 - Reach me at: www.linkedin.com/in/kyle-schulz-204056209
 <hr>
 
