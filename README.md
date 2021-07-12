@@ -1,7 +1,6 @@
  # <p align='center'>Welcome to my page! </p>
-![badge align='center'](https://img.shields.io/badge/Kyle%20Schulz-Software%20Developer-blue) 
 
-<h4 align='center' >My name's Kyle, I live in Worcester, MA.🌲 Nature nerd.🪲 World traveler.🚌 and Bike touring enthusiast.🚵</h4>
+<h4 align='center' >My name's Kyle, I live in Worcester, MA.🌲 Nature nerd.🪲 World traveler.🚌 and Burrito lover.🌯 </h4>
 
 ### A little about me:
 
@@ -9,7 +8,7 @@
 - Former field biolgist, working on eradicating the Asian long-horned beetle
 - Use he/him pronouns
 - Currently learning Docker 
-- Schedule some time to chat over coffee or pair program on Calendly
+- Reach me at: www.linkedin.com/in/kyle-schulz-204056209
 <hr>
 
 ### I enjoy coding with:
