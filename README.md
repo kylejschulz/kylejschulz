@@ -1,16 +1,41 @@
-### Hi there 👋
+ # <p align='center'>Welcome to my page! </p>
+![badge align='center'](https://img.shields.io/badge/Kyle%20Schulz-Software%20Developer-blue) 
 
-<!--
-**kylejschulz/kylejschulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align='center' >My name's Kyle, I live in Worcester, MA.🌲 Nature nerd.🪲 World traveler.🚌 and Bike touring enthusiast.🚵</h4>
 
-Here are some ideas to get you started:
+### A little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little about me:
+Currently a Software Developer looking for work 
+Former field biolgist, working on eradicating the Asian long-horned beetle
+Use he/him pronouns
+Currently learning Docker 
+Schedule some time to chat over coffee or pair program on Calendly
+<hr>
+
+### I enjoy coding with:
+
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
+![Sinatra](https://img.shields.io/badge/-Sinatra-black?style=flat-square&logo=sinatra&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![TravisCi](https://img.shields.io/badge/-Travis-black?style=flat-square&logo=travis-ci)
+![CircleCi](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=circle-ci)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+
+
+### Stats:
+
+![Kyle’ github stats](https://github-readme-stats.vercel.app/api?username=kylejschulz&show_icons=true&theme=tokyonight)
+<br>
+<br>
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kylejschulz&theme=tokyonight)
+
