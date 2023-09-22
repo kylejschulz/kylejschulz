@@ -51,6 +51,8 @@
 <br>
 <hr>
 ### Certifications:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8a05bae4-8bdd-4df4-80b5-d5786210dd2f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div>
+   <img src="https://www.credly.com/badges/8a05bae4-8bdd-4df4-80b5-d5786210dd2f/public_url" title="CompTIA Network+" alt="CompTIA Network+" width="40" height="40"/>&nbsp;
+</div>
 
 <br>
