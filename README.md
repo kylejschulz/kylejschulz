@@ -50,9 +50,3 @@
   
 <br>
 <hr>
-### Certifications:
-<div>
-   <img src="https://www.credly.com/badges/8a05bae4-8bdd-4df4-80b5-d5786210dd2f/public_url" title="CompTIA Network+" alt="CompTIA Network+" width="40" height="40"/>&nbsp;
-</div>
-
-<br>
