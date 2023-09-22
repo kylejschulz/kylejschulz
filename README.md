@@ -8,8 +8,8 @@
 <!--   ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue)  -->
 
 ### About me:
-- #### Working at Audit Analytics as a Software Engineer
-- #### Former field biolgist, working on eradicating the Asian long-horned beetle
+- #### Working at Audit Analytics as a Software Engineer -- Backend engineer working on ETL and Infrastructure
+- #### Former Field Biologist -- working on eradicating the Asian long-horned beetle
 - #### Currently learning AWS
 - #### Use he/him pronouns
 - #### Reach me at: www.linkedin.com/in/kyle-schulz-204056209
