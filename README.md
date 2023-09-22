@@ -52,5 +52,3 @@
 <hr>
 
 <br>
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kylejschulz&theme=tokyonight)
-
