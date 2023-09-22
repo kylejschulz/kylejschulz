@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/Software Engineer%20-3B4252?style=for-the-badge"/>
   </a>
 </p>
-<!--   ![badge align='center'](https://img.shields.io/badge/Kyle%20Schulz-Software%20Developer-blue)  -->
 
 ### About me:
 - #### Working at Audit Analytics as a Software Engineer -- Backend engineer working on ETL and Infrastructure
