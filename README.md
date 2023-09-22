@@ -1,39 +1,56 @@
- # <p align='center'>Welcome to my page! </p>
+# <p align='center'>Kyle Schulz</p>
 
-<h4 align='center' >My name's Kyle, I live in Worcester, MA.🌲 Nature nerd.🪲 World traveler.🚌 and Burrito lover.🌯 </h4>
+  <p align="center">
+  <a href="https://github.com/kylejschulz">
+    <img src="https://img.shields.io/badge/Software Engineer%20-3B4252?style=for-the-badge"/>
+  </a>
+</p>
+<!--   ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue)  -->
 
-### A little about me:
+### About me:
+- #### Working at Audit Analytics as a Software Engineer
+- #### Former field biolgist, working on eradicating the Asian long-horned beetle
+- #### Currently learning AWS
+- #### Use he/him pronouns
+- #### Reach me at: www.linkedin.com/in/kyle-schulz-204056209
 
-- Recent Turing School Grad 
-- Former field biolgist, working on eradicating the Asian long-horned beetle
-- Use he/him pronouns
-- Currently learning Docker and React 
-- Reach me at: www.linkedin.com/in/kyle-schulz-204056209
+
+### Skills: 
+
+#### Languages:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+</div>
+
+#### Frameworks:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails"  alt="Rails" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
+  
+#### Tools:  
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" title="CircleCI"  alt="CircleCI" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible"  alt="Ansible" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+  
+<br>
 <hr>
 
-### I enjoy coding with:
-
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
-![Sinatra](https://img.shields.io/badge/-Sinatra-black?style=flat-square&logo=sinatra&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![TravisCi](https://img.shields.io/badge/-Travis-black?style=flat-square&logo=travis-ci)
-![CircleCi](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=circle-ci)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-
-
-
-### Stats:
-
-![Kyle’ github stats](https://github-readme-stats.vercel.app/api?username=kylejschulz&show_icons=true&theme=tokyonight)
-<br>
 <br>
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kylejschulz&theme=tokyonight)
 
