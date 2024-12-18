@@ -7,10 +7,9 @@
 </p>
 
 ### About me:
-- #### Working at Audit Analytics as a Software Engineer -- Backend engineer working on ETL and Infrastructure
+- #### Working at Healthcentric Advisors as a Software Engineer -- FullStack engineer working on a remote patient monitoring(RPM) app and related Infrastructure
+- #### Workied at Audit Analytics as a Software Engineer -- Backend engineer working on ETL and Infrastructure
 - #### Former Field Biologist -- Worked on eradicating the Asian long-horned beetle
-- #### Currently learning AWS
-- #### Use he/him pronouns
 - #### Reach me at: www.linkedin.com/in/kyle-schulz-204056209
 
 
